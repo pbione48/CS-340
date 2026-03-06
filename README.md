@@ -1,4 +1,4 @@
-CS-340 Animal Shelter Dashboard
+# CS-340 Animal Shelter Dashboard
 
 This project implements a Python CRUD module and an interactive dashboard
 for managing animal shelter records. The system connects to a database
