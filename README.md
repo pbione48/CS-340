@@ -19,9 +19,9 @@ Features
 - Modular Python backend
 
 ## Project Structure
--animal_shelter.py → Python CRUD module for database operations
-- ProjectTwoDashboard.ipynb → Interactive dashboard for exploring the data
-- ProjectTwoDashboard-checkpoint.ipynb → Notebook checkpoint file
+animal_shelter.py → Python CRUD module for database operations
+ProjectTwoDashboard.ipynb → Interactive dashboard for exploring the data
+ProjectTwoDashboard-checkpoint.ipynb → Notebook checkpoint file
 README.md → Project documentation
 
 ## How to Run the Project
