@@ -30,7 +30,7 @@ README.md → Project documentation
 2. Navigate into the project directory
 3. Install required Python libraries
 4. Launch Jupyter Notebook
-5. 5. Open **ProjectTwoDashboard.ipynb** and run the cells to interact with the dashboard.
+5. Open **ProjectTwoDashboard.ipynb** and run the cells to interact with the dashboard.
 
 ## Author
 
